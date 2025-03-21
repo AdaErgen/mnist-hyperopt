@@ -19,5 +19,5 @@ This project performs **handwritten digit classification** using the MNIST datas
 - Confusion matrices
 - Model performance comparison by parameter
 
-## 🚀 Run it on Google Colab:
+## Run it on Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Aunzw0lfiZi8pc6YJzav3UzpDGa73FKN)
